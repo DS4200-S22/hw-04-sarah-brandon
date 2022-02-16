@@ -2,6 +2,10 @@
 	text-align: center;
 }
 
+.my-circle {
+  fill: #0ee;
+}
+
 body {
 	font-family: arial;
 }
