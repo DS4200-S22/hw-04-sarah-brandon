@@ -8,6 +8,13 @@
   stroke-width: 4px;
 }
 
+.my-circle2 {
+  fill: #0ee;
+  stroke:  black;
+  stroke-width: 4px;
+}
+
+
 body {
 	font-family: arial;
 }

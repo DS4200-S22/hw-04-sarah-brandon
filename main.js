@@ -29,11 +29,11 @@ function disappearCircle() {
 }
 
 function border() {
-	var border = document.getElementById("border_svg");
-	border.style.border = "5px solid black";
+	var border = document.getElementById("circle2");
+	border.style.stroke = "black";
 }
 
 function noborder(){
-	var border = document.getElementById("border_svg");
-	border.style.border = "none";
+	var border = document.getElementById("circle2");
+	border.style.stroke = "none";
 }
