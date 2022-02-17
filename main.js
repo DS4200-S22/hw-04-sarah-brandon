@@ -31,6 +31,7 @@ function disappearCircle() {
 function border() {
 	var border = document.getElementById("circle2");
 	border.style.stroke = "black";
+	border.style.stroke_width = "4px"
 }
 
 function noborder(){
