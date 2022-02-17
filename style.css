@@ -4,6 +4,8 @@
 
 .my-circle {
   fill: #0ee;
+  stroke:  black;
+  stroke-width: 4px;
 }
 
 body {
