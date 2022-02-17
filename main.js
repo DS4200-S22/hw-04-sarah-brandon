@@ -27,3 +27,8 @@ function disappearCircle() {
 	var circle = document.getElementById("circle3");
 	circle.style.display = "none";
 }
+
+function border() {
+	var border = document.getElementById("border_svg");
+	border.style.border = "5px solid black";
+}
