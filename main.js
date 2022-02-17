@@ -32,3 +32,8 @@ function border() {
 	var border = document.getElementById("border_svg");
 	border.style.border = "5px solid black";
 }
+
+function noborder(){
+	var border = document.getElementById("border_svg");
+	border.style.border = "none";
+}
